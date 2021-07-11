@@ -13,4 +13,5 @@ This VBA script was tested on multiple year stock data. The file consisted on th
    
 ## VBA Description
 The VBA script loops through all stocks on each tab and creates a table on each worksheet that calculates yearly 
-change, percent change, and total stock volume by ticker
+change, percent change, and total stock volume by ticker. If yearly change was greater than 0, the cell is green. If it 
+was less than 0, the cell is red.
