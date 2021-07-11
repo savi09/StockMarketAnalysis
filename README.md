@@ -10,4 +10,4 @@ This VBA script was tested on multiple year stock data. The file consisted on th
    Column E: Lowest stock value
    Column F: Closing stock value
    Column G: Total stock volume
-  
+   
