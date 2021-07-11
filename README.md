@@ -21,3 +21,6 @@ was less than 0, the cell is red.
     Percent Change = (Total closing stock value - Total openning stock value)/Total openning stock value
 
 You only need to run the script once to loop through all the tabs.
+
+### Pictures
+The three pictures are examples to show the first 36 columns of the data and the table created for all 3 tabs in the file.
